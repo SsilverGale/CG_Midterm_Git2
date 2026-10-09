@@ -8,6 +8,7 @@ I plugged it into the base color instead of pluggin it into the emission.
 
 I also made it differ by adding a vertex shader the makes the car sway up and down simular to how cars bounce on the road.
 I did this by moving the Z axis with the absolute value of a sin wave. Using the absolute value so it does not go underground.
+I also divided the sin wave in order to reduce how much movement it was actually causeing
 <img width="940" height="322" alt="Car_Vertex" src="https://github.com/user-attachments/assets/b017497f-44c6-4fd7-8dfb-2a280e041e20" />
 
 Shader 2: Moving Sand
