@@ -15,7 +15,8 @@ Shader 2: Moving Sand
 I took a tiling node from the shader graph and multiplied it by time.
 I also added a variable so you can change the speed of the tiling, making it look the the car is going faster or slower.
 I didn't know about the tiling node before today but I was curious and looked up tiling in the node search on unity.
-Interesting to learn that it plugs into UV because that was an alternate way to do what's in my next shader
+Interesting to learn that it plugs into UV because that was an alternate way to do what's in my next shader.
+I also reused this shader for the sidewalls so that they scroll too.
 <img width="951" height="397" alt="Sand_Fragment" src="https://github.com/user-attachments/assets/018bdc96-2aba-4644-ac65-89cfb956b56b" />
 
 Shader 3: Using multiple UVs for smoke
